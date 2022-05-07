@@ -1,0 +1,26 @@
+#include <windows.h>
+IDI_APPLICATION ICON "icon.ico" 
+
+1 VERSIONINFO
+FILEVERSION     1,1,0,0
+PRODUCTVERSION  1,1,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "TBCalc"
+      VALUE "FileDescription", "TBCalc"
+      VALUE "FileVersion", "1.1.0"
+      VALUE "InternalName", "TBCalc"
+      VALUE "LegalCopyright", "Copyright (c) TCB13 (Tadeu Bento) 2022"
+      VALUE "OriginalFilename", "TBCalc.exe"
+      VALUE "ProductName", "TBCalc"
+      VALUE "ProductVersion", "1.1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END
