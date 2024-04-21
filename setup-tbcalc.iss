@@ -195,7 +195,7 @@ end;
 #define UseWebView2
 
 #define MyAppName "TBCalc"
-#define MyAppVersion "1.1.0"
+#define MyAppVersion "1.2.0"
 #define MyAppPublisher "TCB13"
 #define MyAppURL "https://tcb13.com"
 #define MyAppExeName "TBCalc.exe"

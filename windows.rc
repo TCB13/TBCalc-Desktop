@@ -2,8 +2,8 @@
 IDI_APPLICATION ICON "icon.ico" 
 
 1 VERSIONINFO
-FILEVERSION     1,1,0,0
-PRODUCTVERSION  1,1,0,0
+FILEVERSION     1,2,0,0
+PRODUCTVERSION  1,2,0,0
 BEGIN
   BLOCK "StringFileInfo"
   BEGIN
@@ -11,12 +11,12 @@ BEGIN
     BEGIN
       VALUE "CompanyName", "TBCalc"
       VALUE "FileDescription", "TBCalc"
-      VALUE "FileVersion", "1.1.0"
+      VALUE "FileVersion", "1.2.0"
       VALUE "InternalName", "TBCalc"
       VALUE "LegalCopyright", "Copyright (c) TCB13 (Tadeu Bento) 2022"
       VALUE "OriginalFilename", "TBCalc.exe"
       VALUE "ProductName", "TBCalc"
-      VALUE "ProductVersion", "1.1.0"
+      VALUE "ProductVersion", "1.2.0"
     END
   END
   BLOCK "VarFileInfo"

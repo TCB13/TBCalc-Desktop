@@ -14,11 +14,11 @@ int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
 {
     // Create the webview
     webview::webview w(false, nullptr);
-    w.set_title("TBCalc - v1.1");
+    w.set_title("TBCalc - Console Calculator");
 
     // Version function
     w.bind("appversion", [](std::string s) -> std::string {
-        return "1.1.0";
+        return "1.2.0";
     });
 
     // Get executable path
